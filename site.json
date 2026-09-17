@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "통신픽",
+  "brand": "TELCO PICK",
+  "mark": "TP",
+  "worker": "telcopick",
+  "url": "https://telcopick.webnote-lab.workers.dev",
+  "description": "휴대폰 요금제, 약정, 인터넷과 통신비를 확인하는 방법을 정리합니다.",
+  "tagline": "통신 선택의 기준을 정리하다",
+  "categories": [
+    {
+      "slug": "mobile-plans",
+      "name": "휴대폰 요금제",
+      "description": "휴대폰 요금제 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "mvno",
+      "name": "알뜰폰",
+      "description": "알뜰폰 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "contract-discounts",
+      "name": "선택약정",
+      "description": "선택약정 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "mobile-data",
+      "name": "데이터",
+      "description": "데이터 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "roaming",
+      "name": "로밍",
+      "description": "로밍 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "internet-contract",
+      "name": "인터넷 약정",
+      "description": "인터넷 약정 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "bundles",
+      "name": "결합할인",
+      "description": "결합할인 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "number-transfer",
+      "name": "번호이동",
+      "description": "번호이동 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "internet-speed",
+      "name": "인터넷 속도",
+      "description": "인터넷 속도 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "telecom-costs",
+      "name": "통신비",
+      "description": "통신비 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/telcopick/issues"
+}
